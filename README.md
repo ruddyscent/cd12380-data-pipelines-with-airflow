@@ -1,4 +1,4 @@
-# Data Pipelines with Airflow - Readme
+# Data Pipelines with Airflow
 
 Welcome to the Data Pipelines with Airflow project! This endeavor will provide you with a solid understanding of Apache Airflow's core concepts. Your task involves creating custom operators to execute essential functions like staging data, populating a data warehouse, and validating data through the pipeline.
 
