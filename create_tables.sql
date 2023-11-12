@@ -1,3 +1,17 @@
+DROP table IF EXISTS public.artists;
+
+DROP table IF EXISTS public.songplays;
+
+DROP table IF EXISTS public.songs;
+
+DROP table IF EXISTS public.staging_events;
+
+DROP table IF EXISTS public.staging_songs;
+
+DROP table IF EXISTS public."time";
+
+DROP table IF EXISTS public.users;
+
 CREATE TABLE public.artists (
 	artistid varchar(256) NOT NULL,
 	name varchar(512),
